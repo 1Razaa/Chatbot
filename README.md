@@ -1,1 +1,1 @@
-# Chatbot
+# The project aims to develop a chatbot capable of understanding and responding to user queries effectively. The chatbot will be trained using machine learning techniques to provide accurate and contextually relevant answers.
